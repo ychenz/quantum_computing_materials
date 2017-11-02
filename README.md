@@ -6,3 +6,9 @@ https://github.com/QISKit/ibmqx-user-guides/tree/master/rst/beginners-guide
 
 Tutorials:
 https://arxiv.org/pdf/quant-ph/0011013.pdf
+
+Good math background tutorial:
+https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf
+
+A resources site:
+https://davidbkemp.github.io/jsqubits/jsqubitsTutorial.html
