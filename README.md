@@ -12,3 +12,6 @@ https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf
 
 A resources site:
 https://davidbkemp.github.io/jsqubits/jsqubitsTutorial.html
+
+Great Grover's algorithm impl tutorial:
+http://twistedoakstudios.com/blog/Post2644_grovers-quantum-search-algorithm
